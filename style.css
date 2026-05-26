@@ -15,11 +15,7 @@ html,body{
 button{
     height: 5rem;
     width: 15rem;
-<<<<<<< HEAD
     background-color: rgb(209, 15, 15);
-=======
-    background-color:green;
->>>>>>> f01232dd2469e7629495060c0b4a9e60fcfc0ef3
     border-radius: 1rem;
     transition: all ease 0.3s ease-in-out;
     border: none;
