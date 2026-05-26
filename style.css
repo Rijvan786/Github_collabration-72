@@ -15,13 +15,15 @@ html,body{
 button{
     height: 5rem;
     width: 15rem;
-    background-color: rgb(15, 209, 209);
+    background-color: rgb(15, 196, 209);
     border-radius: 1rem;
-    transition: all ease 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
     border: none;
+    font-weight: 300;
+    font-size: 1.3rem;
 }
 
 
 button:active{
-    transform: scale(0.95);
+    transform: scale(0.85);
 }
