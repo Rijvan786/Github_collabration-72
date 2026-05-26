@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    height: 5rem;
+    width: 15rem;
+    background-color: rgb(36, 174, 179);
+    border-radius: 1rem;
+    transition: all ease 0.3s ease-in-out;
+    border: none;
+}
+
+
+button:active{
+    transform: scale(0.95);
+}
